@@ -11,7 +11,7 @@ Your goals are to:
 * design a class or classes that model the returned data (DO NOT USE A PRE-BUILT GEM)
 * marshall the JSON to the class(es) you designed
 * output the username, datetime, and tweet
-* submit a link to your solution committed and pushed ot github.com
+* submit a link to your solution committed and pushed to github.com
 
 You have 3-5 days to complete this.  
 
