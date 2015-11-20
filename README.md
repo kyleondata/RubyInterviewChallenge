@@ -7,8 +7,8 @@ API documentation can be found at https://dev.twitter.com/streaming/reference/ge
 
 Your goals are to:
 
-* construct an HTTP request to the API to get a random sample of tweets
-* design a class or classes that model the returned data (DO NOT USE A PRE-BUILT GEM)
+* construct an HTTP request to the API to get a random sample of tweets (DO NOT USE A TWITTER PRE-BUILT GEM)
+* design a class or classes that model the returned data (DO NOT USE A TWITTER PRE-BUILT GEM)
 * marshall the JSON to the class(es) you designed
 * output the username, datetime, and tweet
 * submit a link to your solution committed and pushed to github.com
